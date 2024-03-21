@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\bin\Debug\net6.0\ContaEtec.exe
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\bin\Debug\net6.0\ContaEtec.deps.json
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\bin\Debug\net6.0\ContaEtec.runtimeconfig.json
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\bin\Debug\net6.0\ContaEtec.dll
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\bin\Debug\net6.0\ContaEtec.pdb
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ContaEtec.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ContaEtec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ContaEtec.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ContaEtec.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ContaEtec.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ContaEtec.dll
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\refint\ContaEtec.dll
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ContaEtec.pdb
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ContaEtec.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ContaEtec\ContaEtec\obj\Debug\net6.0\ref\ContaEtec.dll
