@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\avião\avião\bin\Debug\net6.0\avião.exe
+C:\Users\Aluno\source\repos\avião\avião\bin\Debug\net6.0\avião.deps.json
+C:\Users\Aluno\source\repos\avião\avião\bin\Debug\net6.0\avião.runtimeconfig.json
+C:\Users\Aluno\source\repos\avião\avião\bin\Debug\net6.0\avião.dll
+C:\Users\Aluno\source\repos\avião\avião\bin\Debug\net6.0\avião.pdb
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\avião.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\avião.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\avião.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\avião.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\avião.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\avião.dll
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\refint\avião.dll
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\avião.pdb
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\avião.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\avião\avião\obj\Debug\net6.0\ref\avião.dll
