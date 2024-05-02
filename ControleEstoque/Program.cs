@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Produto p = new Produto(5, "Pochita_Plushie", 0, 3900);
+            Produto p = new Produto(20, "Sukuna_fingers", 0, 20000);
             p.imprimir();
             p.entrada(20);
             p.imprimir();
